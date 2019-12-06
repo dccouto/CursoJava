@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App_18_Jogo",
+            "request": "launch",
+            "mainClass": "app.App_18_Jogo",
+            "projectName": "listaDeExercicio"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App_17_Aleatorio",
+            "request": "launch",
+            "mainClass": "app.App_17_Aleatorio",
+            "projectName": "listaDeExercicio"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App_16_Primos",
+            "request": "launch",
+            "mainClass": "app.App_16_Primos",
+            "projectName": "listaDeExercicio"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App_15_Emprestimo",
+            "request": "launch",
+            "mainClass": "app.App_15_Emprestimo",
+            "projectName": "listaDeExercicio"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App_14",
+            "request": "launch",
+            "mainClass": "app.App_14",
+            "projectName": "listaDeExercicio"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App_13_DataAniversario",
+            "request": "launch",
+            "mainClass": "app.App_13_DataAniversario",
+            "projectName": "listaDeExercicio"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App_12_voto",
+            "request": "launch",
+            "mainClass": "app.App_12_voto",
+            "projectName": "listaDeExercicio"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "listaDeExercicio"
+        }
+    ]
+}
